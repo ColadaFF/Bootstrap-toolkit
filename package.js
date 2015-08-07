@@ -2,7 +2,7 @@ Package.describe({
   name: 'coladaff:bootstrap-toolkit',
   version: '1.0.0',
   summary: 'Bootstrap toolkit generated from maciej-gurban Responsive Bootstrap Toolkit',
-  git: '',
+  git: 'https://github.com/ColadaFF/Bootstrap-toolkit',
   documentation: "README.md"
 });
 

@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'coladaff:bootstrap-toolkit',
+  name: 'colada:bootstrap-toolkit',
   version: '1.0.0',
   summary: 'Bootstrap toolkit generated from maciej-gurban Responsive Bootstrap Toolkit',
   git: 'https://github.com/ColadaFF/Bootstrap-toolkit',
